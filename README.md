@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Quickgold<br>I'm interested to collaborate on open source projects<br>I'm currently learning React native and Nextjs<br>If you want to know more about me visit <a href="https://albertomoreno.dev/"/>my portfolio</a>
+I'm currently working on Quickgold<br>I'm interested to collaborate on open source projects<br>I'm currently learning React native and Nextjs<br>If you want to know more about me visit <a href="https://albertomoreno.dev/" target="_blank" />my portfolio</a>
 
 
 ## 🌐 Socials:
